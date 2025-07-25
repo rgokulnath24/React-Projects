@@ -1,0 +1,104 @@
+body
+{
+  background-color: black;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.bg-color
+{
+  background-color:red;
+  /* color:green; */
+}
+
+.num_header
+{
+  color:aqua;
+}
+/* Parent container to align buttons on the same line */
+.button-container {
+  display: flex;
+  gap: 15px; /* space between buttons */
+  justify-content: center; /* center the buttons horizontally */
+  align-items: center; /* vertically align buttons */
+  margin: 20px 0;
+}
+
+/* Common button styles */
+.incr, .decr {
+  font-weight: bold;
+  font-size: 24px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Increment button styles */
+.incr {
+  background-color: #e6ffe6;
+  color: green;
+}
+
+.incr:hover {
+  background-color: #ccffcc;
+  transform: scale(1.1) rotate(5deg);
+  box-shadow: 0 6px 10px rgba(0, 128, 0, 0.4);
+}
+
+/* Decrement button styles */
+.decr {
+  background-color: #ffe6e6;
+  color: red;
+}
+
+.decr:hover {
+  background-color: #ffcccc;
+  transform: scale(1.1) rotate(-5deg);
+  box-shadow: 0 6px 10px rgba(255, 0, 0, 0.4);
+}
