@@ -1,0 +1,52 @@
+/* Reset some default styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa; /* Light Bootstrap background */
+  color: #212529; /* Bootstrap default text color */
+  padding: 20px;
+}
+
+/* Heading style */
+h2 {
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Fruit list container */
+.fruit-list {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+/* Input + button group */
+.input-group {
+  margin-bottom: 15px;
+}
+
+/* Fruit item */
+.fruit-item {
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fruit-item span {
+  font-weight: 500;
+}
+
+/* Buttons */
+.btn {
+  padding: 6px 12px;
+  font-size: 0.9rem;
+}
+
+.btn-edit {
+  margin-right: 5px;
+}
