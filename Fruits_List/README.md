@@ -1,12 +1,21 @@
-# React + Vite
+#  Fruit App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application to manage a list of fruits with name and category. Users can add, delete, and filter fruits based on category. The data is saved in the browser's `localStorage`.
 
-Currently, two official plugins are available:
+##  Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new fruits with name and category
+- Delete fruits with confirmation (SweetAlert2)
+- Filter/search fruits by category
+- Persistent data using localStorage
+- Responsive UI with Bootstrap 5
 
-## Expanding the ESLint configuration
+##  Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (Functional Components with Hooks)
+- Bootstrap 5
+- SweetAlert2
+
+## Screenshot
+
+<img width="1920" height="951" alt="Screenshot 2025-07-29 153815" src="https://github.com/user-attachments/assets/eb17a716-25b0-4f02-b978-5c39c1d82d34" />
