@@ -23,6 +23,6 @@ A curated collection of my React.js projects — built to strengthen my frontend
 - JavaScript (ES6+)
 - React Router DOM
 - CSS / Bootstrap
-- Optional: APIs & fake data for dynamic content
+- APIs for dynamic content
 
 ---
