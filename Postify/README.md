@@ -21,7 +21,11 @@ A responsive job listing and application portal built with React. View job listi
 - 💅 CSS (inline styles & media queries)
 
 ---
+## 🔗 API Used
 
+- 📡 Fake Jobs API:  
+  [https://remoteok.com/api](https://remoteok.com/api)  
+  Used to fetch job listings and display dynamic data in the portal.
 ---
 
 ## 📸 Screenshots
