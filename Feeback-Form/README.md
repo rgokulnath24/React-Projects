@@ -24,12 +24,11 @@ A simple and interactive employee feedback collection app built with React. User
 ---
 
 ## 📸 Screenshots
+| Desktop View                                                                                                                | Mobile View                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+|<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/bb3859c4-8ed2-47c3-ba7a-3fcc4fdc52fe" />| <img width="300" height="300" alt="Screenshot 2025-08-08 152851" src="https://github.com/user-attachments/assets/507c41f0-bf51-47be-bb08-0fdd9135c272" />
 
-### 🖥️ Desktop View
-![Desktop View]-
 
-### 📱 Mobile View
-![Mobile View]-
 
 
 ---
