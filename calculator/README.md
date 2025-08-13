@@ -1,4 +1,4 @@
-# 🧮 Calculator App
+#  Calculator App
 
 A modern, responsive calculator built with React and Tailwind CSS. Supports basic arithmetic operations with a clean and user-friendly interface.
 
