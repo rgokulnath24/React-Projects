@@ -1,12 +1,32 @@
-# React + Vite
+# 🧮 Calculator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive calculator built with React and Tailwind CSS. Supports basic arithmetic operations with a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Features
 
-## Expanding the ESLint configuration
+- ➕ Perform addition, subtraction, multiplication, and division
+- 🔢 Clickable number and operator buttons
+- 🖱️ Simple "C" button to clear input
+- 📱 Fully responsive design for mobile, tablet, and desktop
+- 🎨 Styled with Tailwind CSS for a sleek and modern look
+- ⚡ Real-time calculation display
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧑‍💻 Tech Stack
+
+- ⚛️ React (Functional Components + Hooks)
+- 🎨 Tailwind CSS (Styling)
+- 📜 JavaScript (ES6+)
+
+---
+
+## 📸 Screenshots
+| Desktop View                                                                                                                | Mobile View                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+|<img width="300" height="300" alt="Screenshot 2025-08-13 222213" src="https://github.com/user-attachments/assets/1b749749-e335-4f3b-af15-187befcba160" />| <img width="300" height="300" alt="Screenshot 2025-08-13 222227" src="https://github.com/user-attachments/assets/1354f441-d7d9-4a63-8644-6a3ecc6af66e" />
+
+
+---
