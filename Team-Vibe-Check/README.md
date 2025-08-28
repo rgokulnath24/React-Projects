@@ -27,17 +27,9 @@ A fun and interactive **team fit questionnaire** built with React. Users can sub
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-| Desktop View                                                                                                                | Mobile View                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| ![Desktop Screenshot](https://via.placeholder.com/300x300?text=Desktop+View) | ![Mobile Screenshot](https://via.placeholder.com/300x300?text=Mobile+View) |
+| Desktop View                                                                                                                
+| --------------------------------------------------------------------------------------------------------------------------|
+|<img width="400" height="400" alt="Screenshot 2025-08-29 002413" src="https://github.com/user-attachments/assets/fc1dff23-3f5d-48ac-87b4-0e951b1869ee" />|
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone <your-repo-link>
