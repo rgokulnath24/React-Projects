@@ -29,9 +29,5 @@ A modern video player built with React, Tailwind CSS, and Framer Motion that sim
 
 | Advertisement Overlay                                                                                                 | Skip to Video                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| <img width="400" height="400" alt="Screenshot 2025-08-29 145957" src="https://github.com/user-attachments/assets/808997c3-3013-4c03-9452-b0b230aa02e0" />
- |<img width="400" height="400" alt="Screenshot 2025-08-29 150006" src="https://github.com/user-attachments/assets/860fd032-9b8d-4a68-b4ef-8ed815b039e0" />
- |
-
----
+| <img width="400" height="400" alt="Screenshot 2025-08-29 145957" src="https://github.com/user-attachments/assets/808997c3-3013-4c03-9452-b0b230aa02e0" />|<img width="400" height="400" alt="Screenshot 2025-08-29 150006" src="https://github.com/user-attachments/assets/860fd032-9b8d-4a68-b4ef-8ed815b039e0" />|
 
