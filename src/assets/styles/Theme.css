@@ -1,0 +1,28 @@
+.header 
+{
+    background-color:blue;
+    padding:20px;
+    display:flex;
+    gap:20px;
+    justify-content:space-between;
+    color:white;
+}
+.link_styles
+{
+    text-decoration:none;
+    color:white;
+}
+.link_container
+{
+    display:flex;
+    gap:20px;
+}
+.footer 
+{
+    background-color:blue;
+    padding:20px;
+    display:flex;
+    gap:20px;
+    justify-content:space-between;
+    color:white;
+}
