@@ -1,0 +1,75 @@
+To start a new Project:
+
+mkdir my-new-project
+cd my-new-project
+git init
+
+
+1.git init-to initialize git hidden folder in the current folder.
+
+
+
+2.git add .-I want to include ALL the files in my project for saving (committing).
+
+3.git commit -m "Initial Commit"
+
+||=>git         # We're using the Git tool
+commit      # Tells Git: “I want to save a version of the project”
+-m          # Means: “I will now type a message for this version”
+"Initial commit"  # This is the message describing the version
+
+4.git remote add origin https://github.com/rgokulnath24/my-first-react-app.git
+
+||=>Your local Git project now knows where to push (upload) and pull (download) code from GitHub.
+
+You’ve linked your local folder to your GitHub repo. 
+
+5.
+
+
+
+Flow:
+
+cd my-first-react-app
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/rgokulnath24/my-first-react-app.git
+git push -u origin main
+
+
+
+To View the FrontEnd Static Project:
+
+for each React project, you should run:
+
+1.npm install gh-pages --save-dev
+
+2.Inside package.json, under "scripts" section, add these lines:
+
+"deploy": "gh-pages -d dist" in package.json
+
+||=>When I run npm run deploy, take everything inside the dist folder and upload it to GitHub Pages using the gh-pages tool. Upload the contents of this specific directory to GitHub Pages
+
+3.For Later : Fix Routing (If you use React Router)
+If your app uses React Router, wrap your routes in BrowserRouter in main.jsx like this:
+
+4.For Later : And install it if not yet:
+
+bash
+Copy
+Edit
+npm install react-router-dom
+
+5.npm run build
+npm run deploy
+Build your app into the dist folder.
+
+Publish dist to GitHub Pages.
+
+🌍View Your Website
+Go to:
+
+https://your-username.github.io/my-first-react-app
+Replace with your GitHub username.
+
